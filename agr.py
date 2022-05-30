@@ -1,6 +1,6 @@
 
 def hello(name ,age):
-    year = 2022 - age
+    year = 2021 - age
     print( f" hello {name} you were born in {year}")
 
 def greet_multiple(**kwargs):
